@@ -32,6 +32,7 @@ Follow LoginServlet above steps to make Calculator.html, CalculatorServlet.
 Print the browser with the result and your code.
 ![image](https://user-images.githubusercontent.com/102649750/215680223-833d0963-a1da-41b2-b1f2-0c4eacc57b90.png)
 ![image](https://user-images.githubusercontent.com/102649750/215680264-b24c1813-787d-45cb-924d-3944da8ba8a9.png)
+![image](https://user-images.githubusercontent.com/102649750/215681355-a2840226-cc09-4c73-80ff-5294d599c2c4.png)
 ![image](https://user-images.githubusercontent.com/102649750/215680311-a400085f-89af-4189-9f29-ee89b3f9d3bb.png)
 ![image](https://user-images.githubusercontent.com/102649750/215680375-41db5cc5-8a28-4c83-9bb8-8b044c05b91f.png)
 
