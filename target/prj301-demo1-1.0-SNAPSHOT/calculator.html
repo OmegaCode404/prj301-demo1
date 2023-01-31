@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+<head>
+        <title>PRJ301 Demo - Login</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    </head>
+    <body>
+        <h1> Please answer </h1>
+        <h1>2015  +  1829 = </h1>
+        <form action="calculator" method="post">
+            <input name="result" type="text">
+            <input name="user" type="submit">
+        </form>
+        
+        <h1> Please answer </h1>
+        <h1 id = "num1"></h1>
+        <h1> + </h1>
+        <h1 id = "num2">  </h1>
+        <h1> = </h1>
+        
+        <form action="calculator" method="post">
+            <input name="result1" type="text">
+            <input name="user" type="submit">
+        </form>
+        <script>
+            document.getElementById("num1").innerHTML = Math.floor(Math.random() * 10000 + 1);
+            document.getElementById("num2").innerHTML = Math.floor(Math.random() * 10000 + 1);
+        </script>    
+    </body>
+</html>
